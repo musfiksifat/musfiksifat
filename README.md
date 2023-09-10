@@ -4,9 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musfiksifat&label=Profile%20views&color=0e75b6&style=flat" alt="musfiksifat" /> </p>
 
 - 🏢 I'm currently working at **Craftsmen Ltd**
-- 🌱 I’m currently learning **TypeScript, GraphQL**
 - ⚡ I use regularly: `.js`, `.yml`, `.tf`
-- 💬 Ask me about **JavaScript, React/React-native, RestAPIs, Serverless**
+- 💬 Ask me about **JavaScript, React/React-native, RestAPIs, GraphQL, Serverless**
 - 📫 To reach me: **musfiksifat766@gmail.com**
 
 #### Languages:
